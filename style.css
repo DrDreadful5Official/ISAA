@@ -127,11 +127,6 @@ body {
     justify-content: center;
 }
 
-#link {
-    position: fixed;
-    padding: 20px 50px;
-}
-
 #info:active {
     background-color: rgb(212, 87, 14);
 }
